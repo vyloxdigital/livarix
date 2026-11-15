@@ -1,0 +1,15 @@
+{
+  "name": "Livarix — ingredients, price and where to buy",
+  "short_name": "Livarix",
+  "description": "Independently published Livarix page: all eight ingredient doses in milligrams, safety notes, official prices and the 60-day guarantee.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f6f2",
+  "theme_color": "#f1f6f2",
+  "icons": [
+    { "src": "/images/favicon.png", "sizes": "any", "type": "image/png", "purpose": "any" }
+  ]
+}
